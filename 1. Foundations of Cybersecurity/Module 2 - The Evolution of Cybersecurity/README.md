@@ -183,7 +183,3 @@ A hacker is any person who uses computers to gain access to computer systems, ne
 **Vishing:** The exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source
 
 **Watering hole attack:** A type of attack when a threat actor compromises a website frequently visited by a specific group of users
-
-## Additional Resources
-
-* To learn more about how security teams work to keep organizations and people safe, explore the [Hacking Google](https://www.youtube.com/playlist?list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H) series of videos.

@@ -100,8 +100,3 @@ Because counterattacks are generally disapproved of or illegal, the security rea
 **Security governance:** Practices that help support, define, and direct security efforts of an organization
 
 **Sensitive personally identifiable information (SPII):** A specific type of PII that falls under stricter handling guidelines
-
-## Additional Resources
-
-* The [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) (CSF) and the [NIST Risk Management Framework](https://csrc.nist.gov/projects/risk-management/about-rmf) (RMF) are frameworks that are important for security professionals to be familiar with to help keep organizations and the people they serve safe.
-* To learn more about specific scenarios and ethical concerns from an international perspective, review updates provided in the  [Tallinn Manual online](https://ccdcoe.org/research/tallinn-manual/).

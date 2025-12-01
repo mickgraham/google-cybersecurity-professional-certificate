@@ -53,9 +53,3 @@ The second playbook your team might use is called the **protecting and preservin
 **Security information and event management (SIEM):** An application that collects and analyzes log data to monitor critical activities in an organization
 
 **SQL (Structured Query Language):** A query language used to create, interact with, and request information from a database
-
-## Additional Resources
-
-* The Google Cybersecurity Action Team's [Threat Horizon Report](https://services.google.com/fh/files/blogs/gcat_threathorizons_full_sept2022.pdf) provides strategic intelligence for dealing with threats to cloud enterprise.
-* The Cybersecurity & Infrastructure Security Agency (CISA) has a list of [Free Cybersecurity Services and Tools](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools). Review the list to learn more about open-source cybersecurity tools.
-* To stay up-to-date on the most critical risks to web applications, review the [Open Web Application Security Project (OWASP) Top 10](https://owasp.org/www-project-top-ten/).

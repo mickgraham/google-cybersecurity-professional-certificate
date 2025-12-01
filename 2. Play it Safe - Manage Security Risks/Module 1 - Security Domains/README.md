@@ -155,10 +155,3 @@ The web is an interlinked network of online content that's made up of three laye
 **Social engineering: * A manipulation technique that exploits human error to gain private information, access, or valuables
 
 **Vulnerability:** A weakness that can be exploited by a threat
-
-## Additional Resources
-
-* Examples of frameworks commonly used in the cybersecurity industry include the National Institute of Standards and Technology Risk Management Framework (
-[NIST RMF](https://csrc.nist.gov/projects/risk-management/about-rmf)) and Health Information Trust Alliance ([HITRUST](https://hitrustalliance.net/hitrust-framework)).
-* the Open Web Application Security Project (OWASP) publishes a standard awareness document about the [Top 10 most critical security risks](https://owasp.org/www-project-top-ten/) to web applications, which is updated regularly.
-* To learn more about the vulnerabilities explained in this section of the reading, as well as other vulnerabilities, explore the [NIST National Vulnerability Database](https://nvd.nist.gov/vuln) and [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog).

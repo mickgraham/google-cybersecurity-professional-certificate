@@ -157,10 +157,3 @@ It's necessary to create an audit checklist before conducting an audit. A checkl
 **Security posture:** An organization's ability to manage its defense of critical assets and data and react to change
 
 **Threat:** Any circumstance or event that can negatively impact assets
-
-## Additional Resources
-
-Resources that you can explore to further develop your understanding of audits in the cybersecurity space are:
-
-* [Assessment and Auditing Resources](https://www.nist.gov/cyberframework/assessment-auditing-resources)
-* [IT Disaster Recovery Plan](https://www.ready.gov/business/emergency-plans/recovery-plan)
