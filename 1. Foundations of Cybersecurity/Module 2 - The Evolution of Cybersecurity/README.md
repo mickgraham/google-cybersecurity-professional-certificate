@@ -38,13 +38,13 @@ Some of the most common types of malware attacks today include; **Viruses**, **W
 
 ### Social Engineering
 
-Social engineering is a manipulation technique that exploits human error to gain private information, access, or valuables. Human error is usually a result of trusting someone without question. It’s the mission of a threat actor, acting as a social engineer, to create an environment of false trust and lies to exploit as many people as possible.
+Social engineering is a manipulation technique that exploits human error to gain private information, access, or valuables. Human error is usually a result of trusting someone without question. It's the mission of a threat actor, acting as a social engineer, to create an environment of false trust and lies to exploit as many people as possible.
 
 Some of the most common types of social engineering attacks today include; **Social media phishing**, **Watering hole attack**, **USB baiting**, **Physical social engineering**.
 
 ### Social Engineering Principles
 
-Social engineering is incredibly effective. This is because people are generally trusting and conditioned to respect authority. The number of social engineering attacks is increasing with every new social media application that allows public access to people's data. Although sharing personal data—such as your location or photos—can be convenient, it’s also a risk.
+Social engineering is incredibly effective. This is because people are generally trusting and conditioned to respect authority. The number of social engineering attacks is increasing with every new social media application that allows public access to people's data. Although sharing personal data—such as your location or photos—can be convenient, it's also a risk.
 
 Reasons why social engineering attacks are effective include; **Authority**, **Intimidation**, **Consensus/Social proof**, **Scarcity**, **Familiarity**, **Trust**, **Urgency**.
 
@@ -139,7 +139,7 @@ Hacktivists are threat actors that are driven by a political agenda. They abuse 
 A hacker is any person who uses computers to gain access to computer systems, networks, or data. They can be beginner or advanced technology professionals who use their skills for a variety of reasons. There are three main categories of hackers:
 
 * **Authorized hackers** are also called ethical hackers. They follow a code of ethics and adhere to the law to conduct organizational risk evaluations. They are motivated to safeguard people and organizations from malicious threat actors.
-* **Semi-authorized hackers** are considered researchers. They search for vulnerabilities but don’t take advantage of the vulnerabilities they find.
+* **Semi-authorized hackers** are considered researchers. They search for vulnerabilities but don't take advantage of the vulnerabilities they find.
 * **Unauthorized hackers** are also called unethical hackers. They are malicious threat actors who do not follow or respect the law. Their goal is to collect and sell confidential data for financial gain.
 
 **Note:** There are multiple hacker types that fall into one or more of these three categories.
@@ -184,6 +184,6 @@ A hacker is any person who uses computers to gain access to computer systems, ne
 
 **Watering hole attack:** A type of attack when a threat actor compromises a website frequently visited by a specific group of users
 
-## Additional Reading
+## Additional Resources
 
 * To learn more about how security teams work to keep organizations and people safe, explore the [Hacking Google](https://www.youtube.com/playlist?list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H) series of videos.
