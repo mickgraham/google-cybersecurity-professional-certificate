@@ -18,9 +18,11 @@ This module provides an understanding of the types of network attacks and the te
 
 ### Module 4: Security Hardening
 
-This module familiarizes participants with network hardening practices that strengthen network systems. It covers how security hardening defends against malicious actors and intrusion methods, as well as how these practices address the unique security challenges posed by cloud infrastructures.
+This module familiarises participants with network hardening practices that strengthen network systems. It covers how security hardening defends against malicious actors and intrusion methods, as well as how these practices address the unique security challenges posed by cloud infrastructures.
 
 ## Glossary: Connect and Protect: Networks and Network Security
+
+* [Connect and Protect: Networks and Network Security: Terms and Definitions](https://docs.google.com/document/d/1XVx3PzR94WgSYofLOPl8l25LIGYwx5kwLgMf3gVnXRk/template/preview)
 
 ## Additional Resources
 
