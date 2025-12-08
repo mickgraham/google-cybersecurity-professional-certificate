@@ -13,7 +13,7 @@
 
 You are a security professional at a large organization. You mainly work with their research team. Part of your job is to ensure users on this team are authorized with the appropriate permissions. This helps keep the system secure.
 
-Your task is to examine existing permissions on the file system. You’ll need to determine if the permissions match the authorization that should be given. If they do not match, you’ll need to modify the permissions to authorize the appropriate users and remove any unauthorised access.
+Your task is to examine existing permissions on the file system. You'll need to determine if the permissions match the authorization that should be given. If they do not match, you'll need to modify the permissions to authorize the appropriate users and remove any unauthorised access.
 
 ## Use Linux commands to manage file permissions
 
@@ -54,7 +54,7 @@ chmod o-w project_k.txt
 
 ### Change file permissions on a hidden file
 
-The research team has archived **.project_x.txt**, which is why it’s a hidden file. This file should not have write permissions for anyone, but the user and group should be able to read the file.
+The research team has archived **.project_x.txt**, which is why it's a hidden file. This file should not have write permissions for anyone, but the user and group should be able to read the file.
 
 ```
 chmod u-w,g-w,g+r .project_x.txt

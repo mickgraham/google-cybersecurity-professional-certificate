@@ -37,7 +37,7 @@ The organization does not allow others to have write access to any files. Based 
 
 ### Step 6: Change file permissions on a hidden file
 
-The research team has archived **.project_x.txt**, which is why it’s a hidden file. This file should not have write permissions for anyone, but the user and group should be able to read the file. Use a Linux command to assign **.project_x.txt** the appropriate authorization.
+The research team has archived **.project_x.txt**, which is why it's a hidden file. This file should not have write permissions for anyone, but the user and group should be able to read the file. Use a Linux command to assign **.project_x.txt** the appropriate authorization.
 
 ### Step 7: Change directory permissions
 

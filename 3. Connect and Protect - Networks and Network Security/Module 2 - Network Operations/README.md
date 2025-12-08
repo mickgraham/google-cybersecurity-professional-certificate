@@ -109,7 +109,7 @@ A VPN encrypts data in transit and uses encapsulation to protect information as 
 
 **Firewall:** A network security device that monitors traffic to or from your network
 
-**Forward proxy server:** A server that regulates and restricts a person’s access to the internet
+**Forward proxy server:** A server that regulates and restricts a person's access to the internet
 
 **Hypertext Transfer Protocol (HTTP):** An application layer protocol that provides a method of communication between clients and website servers
 
@@ -131,7 +131,7 @@ A VPN encrypts data in transit and uses encapsulation to protect information as 
 
 **Secure shell (SSH):** A security protocol used to create a shell with a remote system
 
-**Security zone:** A segment of a company’s network that protects the internal network from the internet
+**Security zone:** A segment of a company's network that protects the internal network from the internet
 
 **Simple Network Management Protocol (SNMP):** A network protocol used for monitoring and managing devices on a network
 

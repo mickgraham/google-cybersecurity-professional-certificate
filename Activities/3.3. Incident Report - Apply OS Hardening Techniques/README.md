@@ -14,7 +14,7 @@
 
 **Section 1: Identify the network protocol involved in the incident**
 
-The DNS and HTTP protocols were involved in the incident. The malicious file is observed being transported to the users’ computers using the HTTP protocol at the application layer.
+The DNS and HTTP protocols were involved in the incident. The malicious file is observed being transported to the users' computers using the HTTP protocol at the application layer.
 
 **Section 2: Document the incident**
 
