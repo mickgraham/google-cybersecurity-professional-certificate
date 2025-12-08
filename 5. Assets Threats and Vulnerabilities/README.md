@@ -35,3 +35,23 @@ Cloud security is one of the fastest growing subfields of cybersecurity. There a
 The identity and access management industry is growing at a rapid pace. As with other domains in security, it's important to stay informed.
 
 * [IDPro©](https://idpro.org/) is a professional organization dedicated to sharing essential IAM industry knowledge.
+
+The essence of securing your CI/CD pipeline is to bring robust security to your software release process, enabling engineers to develop, test, and deploy code with confidence and resilience against threats.
+
+* DevSecOps Using GitHub Actions: Building Secure CI/CD Pipelines. [https://medium.com/@rahulsharan512/devsecops-using-github-actions-building-secure-ci-cd-pipelines-5b6d59acab32](https://medium.com/@rahulsharan512/devsecops-using-github-actions-building-secure-ci-cd-pipelines-5b6d59acab32)
+
+* 6 Steps for Success with CI/CD Securing Hardening. [https://spectralops.io/blog/ci-cd-security-hardening/](https://spectralops.io/blog/ci-cd-security-hardening/)
+
+* GitLab CI/CD - Hands-On Lab: Securing Scanning. [https://handbook.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab9/](https://handbook.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab9/)
+
+* How can you stay current with the latest problem solving techniques in Cloud Computing as a manager. [https://www.linkedin.com/advice/1/how-can-you-stay-current-latest-problem-solving-msk5e](https://www.linkedin.com/advice/1/how-can-you-stay-current-latest-problem-solving-msk5e)
+
+OSINT plays a significant role in information security (InfoSec), which is the practice of keeping data in all states away from unauthorised users.
+
+* [VirusTotal](https://www.virustotal.com/gui/home/upload) is a service that allows anyone to analyze suspicious files, domains, URLs, and IP addresses for malicious content.
+
+* [MITRE ATT&CK®](https://attack.mitre.org/) is a knowledge base of adversary tactics and techniques based on real-world observations.
+
+* [OSINT Framework](https://osintframework.com/) is a web-based interface where you can find OSINT tools for almost any kind of source or platform.
+
+* [Have I been Pwned](https://haveibeenpwned.com/) is a tool that can be used to search for breached email accounts.
