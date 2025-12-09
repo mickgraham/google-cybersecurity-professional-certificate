@@ -15,8 +15,8 @@ Vulnerability management is the process of finding and patching vulnerabilities.
 
 1. Identify vulnerabilities
 2. Consider potential exploits of those vulnerabilities
-3. Prepare defences against threats.
-4. Evaluate those defences.
+3. Prepare defences against threats
+4. Evaluate those defences
 
 When the last step ends, the process starts again. Vulnerability management happens in a cycle. It's a regular part of what security teams do because there are always new vulnerabilities to be concerned about.
 
@@ -173,7 +173,7 @@ Key strategies for defending against attack vectors include:
 
 **Vulnerability:** A weakness that can be exploited by a threat
 
-**Vulnerability assessment:** The internal review process of a company’s security systems
+**Vulnerability assessment:** The internal review process of a company's security systems
 
 **Vulnerability management:** The process of finding and patching vulnerabilities
 

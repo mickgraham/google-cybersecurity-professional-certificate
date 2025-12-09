@@ -49,9 +49,17 @@ The essence of securing your CI/CD pipeline is to bring robust security to your 
 OSINT plays a significant role in information security (InfoSec), which is the practice of keeping data in all states away from unauthorised users.
 
 * [VirusTotal](https://www.virustotal.com/gui/home/upload) is a service that allows anyone to analyze suspicious files, domains, URLs, and IP addresses for malicious content.
-
 * [MITRE ATT&CK®](https://attack.mitre.org/) is a knowledge base of adversary tactics and techniques based on real-world observations.
-
 * [OSINT Framework](https://osintframework.com/) is a web-based interface where you can find OSINT tools for almost any kind of source or platform.
-
 * [Have I been Pwned](https://haveibeenpwned.com/) is a tool that can be used to search for breached email accounts.
+
+Here are two additional resources to review that will help you continue developing your understanding of social engineering trends and security practices:
+
+* [OUCH!](https://www.sans.org/newsletters/ouch) is a free monthly newsletter from the SANS Institute that reports on social engineering trends and other security topics.
+* [Scamwatch](https://www.scamwatch.gov.au/) is a resource for news and tools for recognising, avoiding, and reporting social engineering scams.
+
+Staying up-to-date on phishing threats is one of the best things you can do to educate yourself and help your organization make smarter security decisions.
+
+* [Google's phishing quiz](https://phishingquiz.withgoogle.com/) is a tool that you can use or share that illustrates just how difficult it can be to identify these attacks.
+* [Phishing.org](https://www.knowbe4.com/) reports on the latest phishing trends and shares free resources that can help reduce phishing attacks.
+* The [Anti-Phishing Working Group (APWG)](https://apwg.org/) is a non-profit group of multidisciplinary security experts that publishes a quarterly report on phishing trends.

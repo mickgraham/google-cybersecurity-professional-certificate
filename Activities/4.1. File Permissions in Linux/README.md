@@ -1,4 +1,4 @@
-# Portfolio Activity: Use Linux commands to manage file permissions
+# Activity: Use Linux commands to manage file permissions
 
 *This activity is based on a fictional scenario.*
 

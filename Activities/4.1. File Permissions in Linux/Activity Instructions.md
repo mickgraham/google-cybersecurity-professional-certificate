@@ -1,12 +1,12 @@
-# Portfolio Activity: Apply filters to SQL queries
+# Activity: Apply filters to SQL queries
 
 *This activity is based on a fictional scenario.*
 
 ## Activity Overview
 
-In this activity, you will create a new portfolio document to demonstrate your experience using SQL. You can add this document to your cybersecurity portfolio, which you can share with prospective employers or recruiters.
+In this activity, you will create a new document to demonstrate your experience using SQL. You can add this document to your cybersecurity portfolio, which you can share with prospective employers or recruiters.
 
-To create your portfolio document, you will review a scenario and follow a series of steps. This scenario is connected to the lab you have just completed about using the AND, OR, and NOT operators in SQL to filter for information. You will explain the queries you performed in that lab, and this will help you prepare for future job interviews and other steps in the hiring process.
+You will review a scenario and follow a series of steps. This scenario is connected to the lab you have just completed about using the AND, OR, and NOT operators in SQL to filter for information. You will explain the queries you performed in that lab, and this will help you prepare for future job interviews and other steps in the hiring process.
 
 ## Step-By-Step Instructions
 
@@ -16,8 +16,8 @@ To create your portfolio document, you will review a scenario and follow a serie
 
 ### Step 2: Access supporting materials
 
-* **instructions-for-including-sql-queries.docx:** The Instructions for including SQL queries document provides instructions and best practices for including samples of SQL queries in the portfolio activity
-* **table-formats.docx:** The Table formats document describes how the tables used for the portfolio activity are organised
+* **instructions-for-including-sql-queries.docx:** The Instructions for including SQL queries document provides instructions and best practices for including samples of SQL queries in the activity
+* **table-formats.docx:** The Table formats document describes how the tables used for the activity are organised
 
 ### Step 3: Retrieve after hours failed login attempts
 
