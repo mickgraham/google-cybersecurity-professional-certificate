@@ -127,7 +127,7 @@ Process of Attack Simulation and Threat Analysis (PASTA) is a popular threat mod
 
 **Malware:** Software designed to harm devices or networks
 
-**Process of Attack Simulation and Threat Analysis (PASTA):** A popular threat modelling framework that’s used across many industries
+**Process of Attack Simulation and Threat Analysis (PASTA):** A popular threat modelling framework that's used across many industries
 
 **Phishing:** The use of digital communications to trick people into revealing sensitive data or deploying malicious software
 
@@ -137,11 +137,11 @@ Process of Attack Simulation and Threat Analysis (PASTA) is a popular threat mod
 
 **Potentially unwanted application (PUA):** A type of unwanted software that is bundled in with legitimate programs which might display ads, cause device slowdown, or install other software
 
-**Quid pro quo:** A type of baiting used to trick someone into believing that they’ll be rewarded in return for sharing access, information, or money
+**Quid pro quo:** A type of baiting used to trick someone into believing that they'll be rewarded in return for sharing access, information, or money
 
-**Ransomware:** Type of malicious attack where attackers encrypt an organization’s data and demand payment to restore access
+**Ransomware:** Type of malicious attack where attackers encrypt an organization's data and demand payment to restore access
 
-**Reflected XSS attack:** An instance when malicious script is sent to a server and activated during the server’s response
+**Reflected XSS attack:** An instance when malicious script is sent to a server and activated during the server's response
 
 **Rootkit:** Malware that provides remote, administrative access to a computer
 
@@ -153,7 +153,7 @@ Process of Attack Simulation and Threat Analysis (PASTA) is a popular threat mod
 
 **Spear phishing:** A malicious email attack targeting a specific user or group of users, appearing to originate from a trusted source
 
-**Spyware:** Malware that’s used to gather and sell information without consent
+**Spyware:** Malware that's used to gather and sell information without consent
 
 **SQL (Structured Query Language):** A programming language used to create, interact with, and request information from a database
 
@@ -177,4 +177,4 @@ Process of Attack Simulation and Threat Analysis (PASTA) is a popular threat mod
 
 **Whaling:** A category of spear phishing attempts that are aimed at high-ranking executives in an organization
 
-**Web-based exploits:** Malicious code or behaviour that’s used to take advantage of coding flaws in a web application
+**Web-based exploits:** Malicious code or behaviour that's used to take advantage of coding flaws in a web application
