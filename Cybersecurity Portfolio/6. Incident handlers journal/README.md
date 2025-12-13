@@ -39,3 +39,15 @@
 |                               | **Where:** E-commerce web application. |
 |                               | **Why:** Hacker demanded a cash payment from an employee via email. |
 | **Additional Notes**          | 1. Employee correctly notified the security team instead of engaging the hacker.<br>2. The organisation did not pay the ransom. |
+
+|                               |              |
+|-------------------------------|--------------|
+| **Date:** November 23, 2022   | **Entry:** 4 |
+| **Description**               | Explore signatures with Suricata. |
+| **Tool(s) used**              | Suricata (network analysis and threat detection software) |
+| **The 5 W's**                 | **Who:** Network traffic |
+|                               | **What:** Network traffic captured in a packet capture file. |
+|                               | **When:** November 23, 2022 |
+|                               | **Where:** Network traffic analysis on employers network. |
+|                               | **Why:** Suricata configuration to trigger alerts. |
+| **Additional Notes**          | 1. Create custom Suricata rules.<br>2. Monitor traffic captured in a packet capture file.<br>3. Examines the fast.log and eve.json output. |
